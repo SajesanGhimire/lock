@@ -4,5 +4,5 @@ var canvas = document.getElementById('image'),
 imageObj.onload = function() {
 	context.drawImage(imageObj, 69, 50);
 };
-imageObj.src = 'https://www.html5canvastutorials.com/demos/assets/darth-vader.jpg';
+imageObj.src = 'Disclaimer_Intro_Check_Description_For_The_information(720p).mp4';
 canvas.oncontextmenu = function() {return false};
